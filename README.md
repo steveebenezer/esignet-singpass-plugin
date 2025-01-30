@@ -39,10 +39,14 @@ esignet-singpass-plugin/
 ├── src/
 │ ├── main/
 │ │ ├── java/
+│ │ │ └── com/example/esignet/audit/
+│ │ │ │ └──  CustomAuditPlugin.java
+│ │ │ └── com/example/esignet/config/
+│ │ │ │ └──  PluginConfig.java
 │ │ │ └── com/example/esignet/singpass/
-│ │ │ ├── SingPassAuthenticator.java
-│ │ │ ├── SingPassClient.java
-│ │ │ └── SingPassResponse.java
+│ │ │ │ ├── SingPassAuthenticator.java
+│ │ │ │ ├── SingPassClient.java
+│ │ │ │ └──  SingPassResponse.java
 │ │ └── resources/
 │ └── test/
 │ └── java/
