@@ -1,0 +1,67 @@
+# Compiled source code
+target/
+*.war
+*.ear
+*.jar
+*.zip
+*.gz
+*.tar
+
+# IDE files
+.idea/
+.project
+.classpath
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Eclipse files (if applicable)
+.settings/
+
+# Intellij files (if applicable)
+*.iws
+*.ipr
+*.iml
+.idea/workspace.xml
+
+# NetBeans files (if applicable)
+nbproject/
+
+# Build system files
+.mvn/wrapper/target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+\#*
+~$*
+*.lock
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Sensitive information (customize as needed)
+.env  # Environment variables
+config/passwords.properties  # Example configuration file with passwords
+*.key  # Private keys
+
+# Distribution files (if you create them)
+dist/
+release/
+
+# Maven specific files (usually not needed, but good to include)
+.mvn/wrapper/target
+
+# Gradle files (if you're mixing with Gradle)
+.gradle/
+build/
+
+# Other files you might want to ignore
+.cache/
+.history/
