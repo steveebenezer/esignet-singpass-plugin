@@ -1,4 +1,4 @@
-package com.example.esignet.singpass;
+package com.educerts.esignet.singpass;
 
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;

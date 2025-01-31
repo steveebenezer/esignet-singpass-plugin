@@ -1,4 +1,4 @@
-package com.example.esignet.singpass;
+package com.educerts.esignet.singpass;
 
 public class SingPassAuthResponse {
     private String accessToken; // Access token for authenticated sessions
