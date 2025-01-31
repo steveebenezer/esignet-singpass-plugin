@@ -60,7 +60,7 @@ esignet-singpass-plugin/
 
 1. **Clone the Repository**:
    ```powershell
-   git clone https://github.com/your-repo/esignet-singpass-plugin.git
+   git clone https://github.com/steveebenezer/esignet-singpass-plugin.git
    cd esignet-singpass-plugin
 ### Build the Project:
 
